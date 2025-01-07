@@ -713,12 +713,7 @@ nav ul.nav-links li a:active {
     }
 }
 
-@media screen and (max-width: 500px) {
-    .hero-section img{
-        max-height: 300px;
-    }
-}
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 480px) {
     .hero-section img{
         max-height: 300px;
         padding-top: 40px;
